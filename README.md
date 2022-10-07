@@ -10,7 +10,7 @@ Tampilan membuat biodata
 ![Screenshot04](img/buat1.jpeg)  
 Tampilan mengedit biodata  
 ![Screenshot05](img/menu.jpeg)  
-![Screenshot06](img/edit.jpeg)  
+![Screenshot06](img/update.jpeg)  
 Tampilan menghapus biodata  
 ![Screenshot05](img/menu.jpeg)  
 ![Screenshot06](img/kosong.jpeg)  
